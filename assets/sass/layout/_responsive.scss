@@ -30,6 +30,7 @@
         background: $secondary-light-gray;
         // overflow: visible;
         margin-right: 0vw !important;
+        margin-top: -20vh !important;
         padding-left: 7vw;
         z-index: 20;
         padding-top: 20vh !important;
@@ -43,7 +44,7 @@
             margin-top: 55vh;
         }
         &-right {
-            margin-top: -85vh !important;
+            margin-top: -70vh !important;
             // background: url("../../images/bg-intro-desktop.svg") !important;
         }
     }

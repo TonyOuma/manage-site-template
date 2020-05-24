@@ -1,7 +1,7 @@
 body {
     // @include font18;
     // color: $secondary-light-gray !important;
-    color: #F3F4F6;
+    // color: #F3F4F6;
 }
 
 main {
@@ -16,14 +16,13 @@ main {
     margin-right: -60vw;
     padding-left: 7vw;
     // z-index: 20;
-    margin-top: -20vh;
     p {
         font-size: 13.84px;
         color: $gray-blue;
     }
     &-left {
         align-items: center;
-        padding: 40vh 0;
+        // padding: 40vh 0;
         h2 {
             line-height: 1.1;
         }
