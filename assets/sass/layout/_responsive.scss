@@ -27,7 +27,7 @@
 
 @include small-only {
     .home {
-        background: $secondary-light-gray;
+        // background: $secondary-light-gray;
         // overflow: visible;
         margin-right: 0vw !important;
         margin-top: -20vh !important;
@@ -36,7 +36,7 @@
         padding-top: 20vh !important;
         p {
             font-size: 13.84px;
-            color: $gray-blue;
+            // color: $gray-blue;
         }
         &-left {
             // align-items: center;
@@ -56,5 +56,13 @@
     }
     article {
         padding: 10vh 2vw !important;
+    }
+    .about {
+        padding: 8vh 0 !important;
+        &-right-nav {
+            p {
+                padding-left: 0 !important;
+            }
+        }
     }
 }

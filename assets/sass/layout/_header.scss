@@ -5,7 +5,7 @@ header {
     // padding-right: 8vw;
     // padding-top: 3vh;
     // padding-bottom: 3vh;
-    padding: 3vh 8vw 0 7vw;
+    padding: 3vh 9vw 0 8vw;
     height: 10vh // width: 100%;
     // position: absolute;
     // img {
@@ -87,7 +87,7 @@ nav {
         align-items: center;
         // height: 20vh;
         overflow: hidden;
-        background: $white;
+        // background: $white;
         list-style-type: none;
         // padding-top: 2rem;
         padding-right: 1rem;
@@ -103,7 +103,7 @@ nav {
             a {
                 padding-top: 1vh;
                 // color: $dark-blue;
-                color: $gray-blue;
+                // color: $gray-blue;
                 // font-size: 18px !important;
                 @include font18;
             }
@@ -111,8 +111,8 @@ nav {
                 transform: translate(0);
             }
             &.active>a {
-                padding-bottom: 1.2rem;
-                border-bottom: 3px solid $bright-cyan;
+                // padding-bottom: 1.2rem;
+                // border-bottom: 3px solid $bright-cyan;
             }
         }
         &__link {
