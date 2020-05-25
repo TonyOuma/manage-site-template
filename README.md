@@ -1,6 +1,8 @@
 # Frontend Mentor - Manage landing page
 
-![Design preview for the Manage landing page coding challenge](./design/desktop-preview.jpg)
+![desktop-design](https://user-images.githubusercontent.com/40301610/82796054-98360880-9e7d-11ea-9bf9-d26758515755.jpg)
+![mobile-design](https://user-images.githubusercontent.com/40301610/82796068-9d935300-9e7d-11ea-872d-5894d8c88f03.jpg)
+![mobile-navigation](https://user-images.githubusercontent.com/40301610/82796083-a1bf7080-9e7d-11ea-9eea-dffe6791c56f.jpg)
 
 ## Welcome! 👋
 
