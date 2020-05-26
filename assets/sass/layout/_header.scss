@@ -55,7 +55,7 @@ header {
         }
         &.open {
             transform: rotate(720deg);
-            background: transparent;
+            background: #fff !important;
             &::before {
                 transform: rotate(45deg) translate(5px, 8px);
                 // translate(x- 5px, y-8px)
@@ -101,8 +101,8 @@ nav {
             transform: translateX(100vw);
             @include transition-ease;
             a {
-                padding-top: 1vh;
-                // color: $dark-blue;
+                // padding-top: 1vh;
+                color: $dark-blue;
                 // color: $gray-blue;
                 // font-size: 18px !important;
                 @include font18;
